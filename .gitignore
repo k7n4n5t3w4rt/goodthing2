@@ -1,0 +1,7 @@
+.build
+build
+node_modules
+.env
+cypress/videos
+cypress/screenshots
+.continue/config.yaml
